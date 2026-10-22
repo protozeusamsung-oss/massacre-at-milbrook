@@ -1,4 +1,4 @@
-# Massacre at Millbrook — version D
+# Massacre at Millbrook
 
 Halloween pixel-art slasher with extra shaders (district color grading, light bloom, heat haze and shockwaves, wet roads in the rain).
 Open `index.html` in Chrome, Edge or Firefox: it works both from a web server (GitHub Pages, Netlify, itch.io…) and as a local file.
